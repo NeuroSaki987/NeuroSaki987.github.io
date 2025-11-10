@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 686.34 623.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变);
+        fill-rule: evenodd;
+      }
+    </style>
+    <radialGradient id="_未命名的渐变" data-name="未命名的渐变" cx="37.01" cy="707.57" fx="37.01" fy="707.57" r="1.65" gradientTransform="translate(-308305.92 310164.51) rotate(42.11) scale(560.74 -617.36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fdeff0"/>
+      <stop offset=".28" stop-color="#fdb7c0"/>
+      <stop offset=".73" stop-color="#7acbf5"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-1" d="m96.88,2.03C47.29-9.33,0,28.35,0,79.23v428.83c0,38.11,27.14,70.81,64.6,77.83l158.39,29.7c48.74,9.14,93.79-28.25,93.79-77.83V115.52c0-36.92-25.51-68.94-61.5-77.19L96.88,2.03Zm492.4.26c49.64-11.49,97.05,26.2,97.05,77.15v434.72c0,38.05-27.07,70.73-64.46,77.81l-158.39,30c-48.78,9.24-93.93-28.16-93.93-77.81V116.11c0-36.86,25.43-68.84,61.33-77.15L589.28,2.3Z"/>
+</svg>
